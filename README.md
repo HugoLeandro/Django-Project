@@ -1,0 +1,1 @@
+Clone da Netflix com Django, incluindo funcionalidades como “Últimos Assistidos”, “Recomendações” e “Novidades”. Utilizei o Superusuário do Django para gerenciar filmes e categorias, e implementei autenticação encriptada.
